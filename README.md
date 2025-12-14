@@ -19,12 +19,14 @@
 
 ---
 
-### 🛠️ Skills
-- C Programming
-- Python
-- Arduino / ESP
-- MIT App Inventor
-- Basic Electronics
+### 🛠️ Skills & Technologies
+
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-00599C)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Arduino](https://img.shields.io/badge/Arduino-teal)
+![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-purple)
+![IoT](https://img.shields.io/badge/IoT-orange)
 
 ---
 
