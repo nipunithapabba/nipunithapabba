@@ -27,6 +27,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-teal)
 ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-purple)
 ![IoT](https://img.shields.io/badge/IoT-orange)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-white)
 
 ---
 
