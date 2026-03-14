@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Currently Working On
-- Voice-Controlled Accident Response System (IoT)
+- Sign-Emotion-Recognition using Mediapipe
 - Small embedded and electronics-based projects
 
 ---
